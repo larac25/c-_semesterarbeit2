@@ -1,4 +1,4 @@
-# c-_semesterarbeit2
+# cppsemesterarbeit2
 Semesterarbeit Teil 2, C++ Kurs bei Prof. Eide, Sommersemester 2018
 
 Bei dieser Arbeit wurde Stufe 1 der Semesterarbeit (Teil 2) erfolgreich umgesetzt.
